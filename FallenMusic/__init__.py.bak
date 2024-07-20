@@ -40,7 +40,7 @@ logging.basicConfig(
 )
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
 logging.getLogger("pytgcalls").setLevel(logging.ERROR)
-LOGGER = logging.getLogger("PANDA BASHA")
+LOGGER = logging.getLogger("𝗣َِ𝗔َِ𝗡َِ𝗗َِ𝗔 َِ𝗕َِ𝗔َِ𝗦َِ𝗛َِ𝗔")
 
 app = Client(
     "FallenMusic",
