@@ -43,8 +43,8 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/H_H_H_P",
-        "required": false
+        "value": "",
+        "required"https://t.me/N_M_7_U": false
       }
     },
     "buildpacks": [
@@ -59,4 +59,4 @@
           }
       ],
       "stack": "container"
-  }
+}
